@@ -1,0 +1,20 @@
+{
+    "g": "NH52 Billard",
+    "mf": "",
+    "dv": {
+        "i": false,
+        "a": false 
+    }, 
+    "ct": ["VN"],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
