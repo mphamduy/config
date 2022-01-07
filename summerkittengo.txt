@@ -2,8 +2,8 @@
     "g": "summerkittengo",
     "mf": "",
     "dv": {
-        "i": false,
-        "a": false 
+        "i": true,
+        "a": true 
     }, 
     "ct": ["VN"],
     "tl": [],
