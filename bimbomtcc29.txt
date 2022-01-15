@@ -1,0 +1,20 @@
+{
+    "g": "bimbomtcc29",
+    "mf": "",
+    "dv": {
+        "i": true,
+        "a": true 
+    }, 
+    "ct": ["VN"],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
